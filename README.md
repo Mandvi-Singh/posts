@@ -17,4 +17,4 @@ Hi! this project displays the posts created by different users. Every post has t
 1. Clone the repository.
 2. Make sure you have node and npm installed on your machine.
 3. Run npm install.
-4. Then run npm start.
+4. Then npm run start.
